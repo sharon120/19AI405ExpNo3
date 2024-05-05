@@ -122,6 +122,19 @@ G F <BR>
 ['A', 'B', 'C', 'F', 'E', 'D', 'G']
 
 <hr>
+<h3>Output</h3>
+<hr>
+7 9 <BR>
+A B <BR>
+A C <BR>
+A F <BR>
+C E <BR>
+C F <BR>
+C D <BR>
+D E <BR>
+D G <BR>
+G F <BR>
+['A', 'B', 'C', 'F', 'E', 'D','G']
 
 ## Program:
 
@@ -170,6 +183,17 @@ print(traversedpath)
 <hr>
 <h3>Sample Output</h3>
 <hr>
+['0', '1', '2', '3', '4']
+<hr>
+<h3>Output</h3>
+<hr>
+5 6 <BR>
+0 1 <BR>
+0 2 <BR>
+1 2 <BR>
+1 3 <BR>
+2 4 <BR>
+3 4 <BR>
 ['0', '1', '2', '3', '4']
 <hr>
 <h3>Result:</h3>
